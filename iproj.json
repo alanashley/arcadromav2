@@ -1,0 +1,15 @@
+{
+  "description": "Arcad Merlin Roma V2",
+  "extensions": {
+    "arcad": {
+      "code": "ROM"
+    }
+  },
+  "repository": "git@github.com:alanashley/arcadromav2.git",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {filename}",
+  "curlib": "&CURLIB",
+  "preUsrlibl": [
+    "ROMREF_DTA"
+  ]
+}
