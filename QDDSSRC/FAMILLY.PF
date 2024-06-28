@@ -9,7 +9,7 @@
                   FAVATCD   R               REFFLD(VATCODE)
                                             TEXT('DFT VAT CODE')
                                             COLHDG('DFT' 'VAT' 'CD')
-                  FACREA          L         TEXT('CREATION DATE')
+                  FACREA          L         TEXT('CREATe DATE')
                                             COLHDG('CREAETION' 'DATE')
                   FAMOD           Z         TEXT('LAST MODIFICATION')
                                             COLHDG('LAST' 'MODIFICATION')
