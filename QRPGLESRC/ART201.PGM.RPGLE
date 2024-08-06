@@ -61,7 +61,7 @@
      d chk             c                   'chk'
      d chkctl          c                   'chc'
      d actctl          c                   'acc'
-     d act             c                   'act'
+     d act             c                   'ada'
       /free
        select;
        when panel = 1;
